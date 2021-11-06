@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Graph.h"
 #include "IOClass.h"
+#include "AntColony.h"
 
 int main()
 {

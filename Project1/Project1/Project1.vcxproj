@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AntColony.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="IOClass.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AntColony.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="IOClass.h" />
   </ItemGroup>

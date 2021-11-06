@@ -19,7 +19,7 @@ int** IOClass::read(std::string name, int&n)
 	return matrix;
 }
 
-void IOClass::write(std::string name, int**matrix, int n)
+void IOClass::write(std::string name, float**matrix, int n)
 {
 	std::ofstream fout(name);
 	for (int i = 0; i < n; i++)
